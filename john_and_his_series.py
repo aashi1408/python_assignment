@@ -10,4 +10,5 @@ sum = 0
 for g in range(a,b,d):
     sum+=g
     print(g,end=' ')
-print("Sum upto nth term = ",sum)
+print("Sum upto nth term = ",sum)//printing the sum upto nth term
+
